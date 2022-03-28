@@ -2,6 +2,8 @@ body{
 	background-color:powderblue;
 	text-align: center;
 	font-size: 300%;
-	border: 10px solid red;
+	border: 20px solid magenta;
+	margin : 200 px;
 	  padding: 110px;
+	  font-family: verdana;
 	}
